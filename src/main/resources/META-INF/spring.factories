@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=starter3.libreria3.config.AnimalAutoconfigure
